@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene version="v1.0">
+    <GraphicsItemList>
+        <GraphicsItem type="8" text="Supercalifragilisticexpialidocious" fontFamily="Sans" x="109" y="59" colorR="85" colorG="85" colorB="255" colorA="255"/>
+        <GraphicsItem type="4" x="483" y="404" w="85" h="158" lineStyle="1" lineColorR="65" lineColorG="65" lineColorB="65" lineColorA="255" brushColorR="85" brushColorG="170" brushColorB="127" brushColorA="255"/>
+        <GraphicsItem type="4" x="87" y="487" w="179" h="172" lineStyle="1" lineColorR="65" lineColorG="65" lineColorB="65" lineColorA="255" brushColorR="85" brushColorG="170" brushColorB="127" brushColorA="255"/>
+        <GraphicsItem type="6" x="273" y="520" w="408" h="628" lineStyle="1" lineColorR="65" lineColorG="65" lineColorB="65" lineColorA="255"/>
+        <GraphicsItem type="6" x="324" y="381" w="338" h="454" lineStyle="1" lineColorR="65" lineColorG="65" lineColorB="65" lineColorA="255"/>
+        <GraphicsItem type="6" x="368" y="379" w="473" h="507" lineStyle="1" lineColorR="65" lineColorG="65" lineColorB="65" lineColorA="255"/>
+        <GraphicsItem type="4" x="109" y="332" w="130" h="122" lineStyle="1" lineColorR="65" lineColorG="65" lineColorB="65" lineColorA="255" brushColorR="0" brushColorG="0" brushColorB="0" brushColorA="255"/>
+        <GraphicsItem type="6" x="398" y="333" w="547" h="414" lineStyle="1" lineColorR="65" lineColorG="65" lineColorB="65" lineColorA="255"/>
+        <GraphicsItem type="6" x="368" y="105" w="364" h="312" lineStyle="2" lineColorR="65" lineColorG="65" lineColorB="65" lineColorA="255"/>
+        <GraphicsItem type="3" x="392" y="116" w="90" h="195" lineStyle="2" lineColorR="65" lineColorG="65" lineColorB="65" lineColorA="255" brushColorR="0" brushColorG="0" brushColorB="0" brushColorA="255"/>
+        <GraphicsItem type="3" x="81" y="108" w="252" h="209" lineStyle="1" lineColorR="0" lineColorG="0" lineColorB="0" lineColorA="255" brushColorR="0" brushColorG="0" brushColorB="0" brushColorA="255"/>
+    </GraphicsItemList>
+</Scene>
